@@ -1,1 +1,1 @@
-Arduino ve C# ile Real-Rime Nesne Takipi
+Arduino ve C# ile Real-Time Nesne Takipi
